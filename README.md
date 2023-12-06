@@ -1,1 +1,5 @@
-# quark-script-visualization
+# Visual Quark
+
+## License
+[MIT](LICENSE)
+
